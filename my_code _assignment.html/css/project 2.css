@@ -102,3 +102,11 @@ p3 {
     padding: 20px;
     border: 2px solid whitesmoke;
 }
+
+p {
+    background-color: rgb(84, 2, 2);
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid whitesmoke;
+}
