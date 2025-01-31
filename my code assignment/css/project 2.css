@@ -84,5 +84,21 @@ footer {
 img {
     display: block;
     margin: 100px auto;
-    width: 1000px;
+    width: 500px;
+}
+
+ol {
+    background-color: rgb(84, 2, 2);
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid whitesmoke; 
+}
+
+p3 {
+    background-color: blue;
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid whitesmoke;
 }
